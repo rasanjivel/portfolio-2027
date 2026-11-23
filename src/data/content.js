@@ -6,7 +6,7 @@ export const IMG = {
   carousel: ['c1', 'c2', 'c3', 'c4', 'c5'].map((n) => `/images/${n}.${['c2', 'c3','c1', 'c4','c5'].includes(n) ? 'jpg' : 'svg'}`),
 };
 export const NAV = [['Expertise', 'expertise'], ['Portfolio', 'speaking'], ['Expérience', 'media'], ['Disponibilité', 'books'], ['À propos', 'about']];
-export const ABOUT = "Anthonio Maminiela, développeur\u00a0\u00a0\u00a0Web\u00a0\u00a0et designer passionné \u00a0\u00a0\u00a0par \u00a0la création d'expériences numériques modernes, intuitives et créatives. J'aime transformer\u00a0\u00a0\u00a0les \u00a0   idées en projets concrets, alliant design, innovation\u00a0\u00a0\u00a0et technologie.";
+export const ABOUT = "Anthonio Maminiela, développeur\u00a0\u00a0\u00a0Web\u00a0\u00a0et designer passionné \u00a0\u00a0\u00a0par \u00a0la création d'expériences numériques modernes, intuitives \u00a0\u00a0et créatives. J'aime transformer \u00a0\u00a0\u00a0les \u00a0   idées \u00a0\u00a0en projets concrets, alliant design, innovation\u00a0\u00a0\u00a0et technologie.";
 export const CLIENTS = [
   ['Développement Web', 'font-bold tracking-tight'],
   ['UI/UX Design', 'font-black tracking-tight'],
